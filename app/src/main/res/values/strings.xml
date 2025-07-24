@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="app_title">Yapilacaklar Listesi</string>
+    <string name="add_todo_hint">Yeni gorev ekle...</string>
+    <string name="add">Ekle</string>
+    <string name="delete_todo">Gorevi sil</string>
+    <string name="empty_state_message">Henuz gorev eklenmemis.\nYeni bir gorev ekleyerek baslayin!</string>
+    <string name="toggle_theme">Tema degistir</string>
+</resources>
